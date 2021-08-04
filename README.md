@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tlucch
+- 👀 I’m interested in data sciente
+- 🌱 I’m currently learning python and R for data science
+- 💞️ I’m looking to collaborate on any project that can help me gain experience in programming
