@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @tlucch
-- 👀 I’m interested in data sciente
-- 🌱 I’m currently learning python and R for data science
-- 💞️ I’m looking to collaborate on any project that can help me gain experience in programming
+- 👋 Hi, I’m Thomas Lucchetta
+- 👀 I’m a Data Science Coordinator at The Walt Disney Company
+- 💞️ I’m looking to collaborate on any project that can help me improve my Data Science skills and knowledge, specially regardin ML engineering
