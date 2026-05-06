@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Thomas Lucchetta
-- 👀 I’m a Ssr. Data Scientist at Rootstrap
+- 👀 I’m a Sr. Data Scientist at Rootstrap
